@@ -1,0 +1,62 @@
+Depth [cm],Penetration depth [mm],Shear Streght [kPa],Cone used,Notes
+0,,,,
+2,6,30,100g 30deg,Suspiciouslt high  measurements in this layer due to dropstones 
+7,10,12,100g 30deg,Suspiciouslt high  measurements in this layer due to dropstones 
+12,8,19,100g 30deg,OK?
+22,6,30,100g 30deg,Suspiciouslt high  measurements in this layer due to dropstones 
+32,5,39,100g30deg,Suspiciouslt high  measurements in this layer due to dropstones 
+42,9,15,100g30deg,OK?
+52,12,8.1,100g30deg,OK?
+62,10,12,100g30deg,OK?
+72,5,9,60g60deg,OK?
+82,5,9,60g60deg,
+92,9,15,100g30deg,
+97,10,12,100g30deg,Last one on A core
+102,12,8.1,100g30deg,First on on B core
+112,9,15,100g30deg,
+122,10,12,100g30deg,
+132,10,12,100g30deg,
+142,10,12,100g30deg,
+152,8,19,100g30deg,
+162,8,19,100g30deg,
+172,11,9.8,100g30deg,
+182,10,12,100g30deg,
+192,5,9,60g60deg,
+197,6,6.6,60g60deg,Last one on B core
+202,5,9,60g60deg,First one on C core
+212,6,6.6,60g60deg,
+222,5,9,60g60deg,
+232,5,9,60g60deg,
+242,10,12,100g30deg,
+252,6,6.6,60g60deg,
+262,12,8.1,100g30deg,
+272,12,8.1,100g30deg,
+282,10,12,100g30deg,
+292,9,15,100g30deg,
+297,10,12,100g30deg,Last one on C core
+303,12,8.1,100g30deg,First one on D core
+313,10,12,100g30deg,
+323,5,9,60g60deg,
+333,9,15,100g30deg,
+343,6,6.6,60g60deg,
+353,7,4.8,60g60deg,
+363,5,9,60g60deg,
+373,6,6.6,60g60deg,
+383,12,8.1,100g30deg,
+393,12,8.1,100g30deg,
+398,11,9.8,100g30deg,Last one on D core
+404,12,8.1,100g30deg,First one on E core
+414,11,9.8,100g30deg,
+424,6,6.6,60g60deg,
+434,6,6.6,60g60deg,
+444,5,9,60g60deg,
+454,12,8.1,100g30deg,
+459,5,9,60g60deg,Last one on E core
+463,5,9,60g60deg,First one on F core
+473,12,8.1,100g30deg,
+483,5,9,60g60deg,
+494,6,6.6,60g60deg,
+504,5,9,60g60deg,
+514,5,9,60g60deg,
+519,10,12,100g30deg,Last one on F core
+520,,,,
